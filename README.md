@@ -8,3 +8,7 @@ Neural networks are powerful and flexible models that work well for many complic
 </p>
 
 
+#### The RNN (LSTM) controller trained on reinforce outputs a CNN bellow to classify CIFAR-10 data in different categories. Note that after the initial controller settings, no human involvement is required to produce these child networks. These CNN networks are purely produced by the RNN Contoller, which essentially learns which search space options are better than others and how different combinations would result in better accuracies for the child network.
+
+### This is essentially training a Neural Network to produce a Neural Network. Creating AI which further creates AI!
+To understand how this works in detail, read our paper attached above.
