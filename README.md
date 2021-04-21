@@ -3,6 +3,6 @@ Neural networks are powerful and flexible models that work well for many complic
 #### Please drop a star if you find this helpful or atleast mildly exciting ;)
 
 ### Macro Search on the architecture looks like:
-<p align="center">
+
 ![](GIFS/MacroSearch.gif)
-</p>
+
